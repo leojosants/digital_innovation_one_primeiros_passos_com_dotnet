@@ -1,0 +1,15 @@
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Primeiros_passos_com_.NET\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.exe
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Primeiros_passos_com_.NET\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.deps.json
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Primeiros_passos_com_.NET\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.runtimeconfig.json
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Primeiros_passos_com_.NET\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.dll
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Primeiros_passos_com_.NET\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.pdb
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Primeiros_passos_com_.NET\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.csproj.AssemblyReference.cache
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Primeiros_passos_com_.NET\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Primeiros_passos_com_.NET\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Primeiros_passos_com_.NET\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.AssemblyInfo.cs
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Primeiros_passos_com_.NET\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Primeiros_passos_com_.NET\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.dll
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Primeiros_passos_com_.NET\DigitalInnovationOne\obj\Debug\net6.0\refint\DigitalInnovationOne.dll
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Primeiros_passos_com_.NET\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.pdb
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Primeiros_passos_com_.NET\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.genruntimeconfig.cache
+C:\REPOSITORIO_GITHUB_DESKTOP\DIO-Primeiros_passos_com_.NET\DigitalInnovationOne\obj\Debug\net6.0\ref\DigitalInnovationOne.dll
